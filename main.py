@@ -1,4 +1,4 @@
+display("Demat d'an holl !")
 print("Demat d'an holl en console !")
-display("Demat d'an holl sur cette page !")
-print("Toto est dans la console !")
-display("Toto est sur cette page !")
+print("Toto est dans la place !")
+display("Toto est ici aussi !")
